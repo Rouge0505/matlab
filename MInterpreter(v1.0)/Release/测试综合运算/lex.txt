@@ -1,0 +1,100 @@
+\n
+var index
+=
+const 1
+;
+\n
+var product
+=
+const 1
+;
+\n
+var sum
+=
+const 0
+;
+\n
+\n
+while
+var index
+<
+const 5
+&
+var sum
+<
+const 10
+\n
+var sum
+=
+var sum
++
+var i
+;
+\n
+var product
+=
+var product
+*
+var i
+;
+\n
+if
+var product
+>
+const 20
+\n
+var product
+=
+const 20
+;
+\n
+break
+;
+\n
+else
+\n
+var index
+=
+var index
++
+const 1
+;
+\n
+continue
+;
+\n
+end
+\n
+end
+\n
+\n
+var whatever
+=
+var index
+>
+const 1
+&
+~
+const 1
+~=
+const 0
+|
+var sum
+<=
+var product
++
+(
+-
+const .2
++
++
+const 3
+-
+const 5.4
+)
+*
+const 2.1
+^
+const 5
+;
+\n

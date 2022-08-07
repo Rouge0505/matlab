@@ -1,0 +1,40 @@
+\n
+\n
+\n
+var a
+=
+const 1
+;
+\n
+var b
+=
+const 2
+;
+\n
+while
+var a
+<
+const 5
+&
+var b
+>
+const 3
+\n
+var a
+=
+const 1
+;
+\n
+break
+;
+\n
+continue
+;
+\n
+var b
+=
+const 2
+;
+\n
+end
+\n

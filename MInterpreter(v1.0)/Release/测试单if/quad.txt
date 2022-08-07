@@ -1,0 +1,8 @@
+0:(=,	const 3,	,	var a)
+1:(=,	const 0,	,	var b)
+2:(<,	var a,	const 0,	_temp0)
+3:(jz,	_temp0,	,	7)
+4:(-,	var a,	none,	_temp1)
+5:(=,	_temp1,	,	var a)
+6:(=,	const 1,	,	var b)
+7:(fin,	,	,	)
